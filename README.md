@@ -22,6 +22,5 @@ ellipse(x, 240, 50, 50);
 
 ... draws a 50 pixel diameter circle x pixels from the left and 240 pixels from the top 
 
-3. **Submit** your modified project here on repl.it
-4. **Download** your lab project as a Zip archive and submit it under "Lab 3b" (with a link also) in Sakai
+3. **Download** your lab project as a Zip archive and submit it under "Lab 3b" (with a link also) in Sakai
 
